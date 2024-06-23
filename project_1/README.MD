@@ -1,4 +1,6 @@
-# Project 1 (QuizGame)
+# Project 1
+
+## Quiz Game
 
 ## Introduction
 

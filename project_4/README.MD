@@ -1,6 +1,6 @@
 # Project 4
 
-## Choose Your Own Destiny Game
+## Choose Your Own Destiny Game.
 
 ## Introduction
 
